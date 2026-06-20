@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-bajo-las-estrellas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Deseo bajo las estrellas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-bajo-las-estrellas/) |
+| **Get License** | [Get License For Deseo bajo las estrellas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-bajo-las-estrellas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Yeah-yeah, deseo bajo las estrellas
+> Tu cuerpo llama, no hay quien lo detenga
+> La noche es nuestra, no busques respuesta
+> Sayed te lleva donde el ritmo empieza
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
