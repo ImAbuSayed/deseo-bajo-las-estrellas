@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Deseo bajo las estrellas
+
+This log tracks the cryptographic history and versioning for the song **Deseo bajo las estrellas** (deseo-bajo-las-estrellas).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T03:28:30.496950 | `v1` | `a73c802c06bdcb43ee293315147406aa0c0dcc3ec06bbcf4867e4ddbefcbe35b` | `fbf8d62ba1fd539e7e54e8eb82519d1a417551e04a4c7f6f9e65e35057cf7fb7` | `2026-06-21_deseo-bajo-las-estrellas-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
